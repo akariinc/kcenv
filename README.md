@@ -1,5 +1,5 @@
 # kcenv
-If you are a developer in use with Mac OS, store secure data on legacy Key Chain Access and export them to environmental variable without storing them on a regular file (ex .env file)
+If you are a developer working on Mac OS, store secure data `encrypted` on legacy Key Chain Access and export them to environmental variable as you need it, and avoid storing them on a regular file like .env file.
 
 
 ## Installation
